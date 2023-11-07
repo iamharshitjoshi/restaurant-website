@@ -1,4 +1,4 @@
-# RESTAURANT WEBSITE
+# Restaurant Website
 
 1. Homepage:
 A visually appealing homepage that showcases your restaurant's ambiance and cuisine.
@@ -25,10 +25,13 @@ A gallery of high-quality images showcasing your restaurant, dishes, and events.
 Virtual tours if available.
 
 
-# TECHNOLOGY USED 
+# Technology Used
 1. HTML
 2. CSS
 3. JAVASCRIPT
 4. PHP (myphpAdmin)
 5. Xampp Server( Apache, PhP, MySql)
+
+# Deployment Link
+restaurant-website-4k8j6y4my-iamharshitjoshi.vercel.app
 
