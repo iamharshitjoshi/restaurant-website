@@ -1,26 +1,26 @@
 # RESTAURANT WEBSITE
 
-# Homepage:
+1. Homepage:
 A visually appealing homepage that showcases your restaurant's ambiance and cuisine.
 High-quality images of your dishes, interior, and exterior.
 
-# Menu:
+2. Menu:
 An online menu with detailed descriptions of dishes.
 Pricing information.
 Dietary labels for vegan, gluten-free, or other special diets.
 
-# Reservation System:
+3. Reservation System:
 A reservation system that allows customers to book tables online.
 Date and time selection.
 Party size input.
 Real-time availability information.
 
-# About Us:
+4. About Us:
 Information about the history and story of your restaurant.
 Meet the chef and staff profiles.
 Awards and accolades.
 
-# Gallery
+5. Gallery
 A gallery of high-quality images showcasing your restaurant, dishes, and events.
 Virtual tours if available.
 
